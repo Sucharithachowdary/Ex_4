@@ -100,7 +100,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 ## activity_main.xml:
-
+```
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -117,9 +117,7 @@ public class MainActivity extends AppCompatActivity {
         android:onClick="btnGetContacts"/>
 
 </RelativeLayout>
-
-
-
+```
 ## AndroidManifest.xml:
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
