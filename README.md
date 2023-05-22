@@ -152,7 +152,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 ## Output:
-![output](?raw=true)
+![output](https://github.com/Sucharithachowdary/Ex_4/blob/main/exp-04%20a.png?raw=true)
 
 
 
